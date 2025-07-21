@@ -1,2 +1,1 @@
-
-├── README.md                # Project documentation
+README.md                # Project documentation
